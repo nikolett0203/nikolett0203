@@ -21,7 +21,9 @@ My porfolio site!
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolett0203&count_private=true&theme=nord&border_radius=10" alt="streak stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolett0203&langs_count=8&layout=compact&theme=nord&border_radius=10" alt="top langs" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=nikolett0203&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
