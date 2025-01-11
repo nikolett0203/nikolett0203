@@ -4,20 +4,20 @@ As a third-year Computer Science student at the University of Guelph 💻 and an
 
 ---
 
-#### Current Projects 🔭
+### Current Projects 🔭
 
-##### [🧬 RulesTools](https://github.com/nikolett0203)
+#### [🧬 RulesTools](https://github.com/nikolett0203)
 An R package for streamlined data preprocessing, analysis, and visualization in association rule mining. 
 
-##### [🎶 Tune Twin](https://github.com/DaniellaToth05/tune-twin)
+#### [🎶 Tune Twin](https://github.com/DaniellaToth05/tune-twin)
 A music recommendation web app built with Flask and integrates Spotify, Last.fm, and Deezer APIs to suggest similar songs based on your favorite tracks.  
 
-##### [🪐 Toth World](https://www.nikoletttoth.com/)
+#### [🪐 Toth World](https://www.nikoletttoth.com/)
 My porfolio site!  
 
 ---
 
-#### GitHub Stats 📈
+### GitHub Stats 📈
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolett0203&count_private=true&theme=nord&border_radius=10" alt="streak stats" />
