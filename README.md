@@ -20,8 +20,6 @@ My porfolio site!
 ## GitHub Stats 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolett0203&langs_count=8&layout=compact&theme=nord&border_radius=10" alt="top langs" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolett0203&count_private=true&theme=nord&border_radius=10" alt="streak stats" />
 </div>
 
