@@ -13,7 +13,7 @@ An R package for streamlined data preprocessing, analysis, and visualization in 
 A music recommendation web app built with Flask and integrates Spotify, Last.fm, and Deezer APIs to suggest similar songs based on your favorite tracks.  
 
 ### [🪐 Toth World](https://www.nikoletttoth.com/)
-My porfolio site!  
+My portfolio site!  
 
 ---
 
