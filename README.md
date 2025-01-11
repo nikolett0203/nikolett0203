@@ -2,22 +2,22 @@
 
 As a third-year Computer Science student at the University of Guelph 💻 and an Environmental Sciences graduate 🌳, I draw on my diverse background to tackle complex challenges. My curiosity for technology and problem-solving drives me to integrate both fields and collaborate on innovative projects.
 
----
 
-## Current Projects 🔭
 
-### [🧬 RulesTools](https://github.com/nikolett0203)
+# Current Projects 🔭
+
+## [🧬 RulesTools](https://github.com/nikolett0203)
 An R package for streamlined data preprocessing, analysis, and visualization in association rule mining. 
 
-### [🎶 Tune Twin](https://tunetwin.ca/)
+## [🎶 Tune Twin](https://tunetwin.ca/)
 A music recommendation web app built with Flask and integrates Spotify, Last.fm, and Deezer APIs to suggest similar songs based on your favorite tracks.  
 
-### [🪐 Toth World](https://www.nikoletttoth.com/)
+## [🪐 Toth World](https://www.nikoletttoth.com/)
 My portfolio site!  
 
----
 
-## GitHub Stats 📈
+
+# GitHub Stats 📈
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolett0203&count_private=true&theme=nord&border_radius=10" alt="streak stats" />
