@@ -10,7 +10,7 @@ As a third-year Computer Science student at the University of Guelph 💻 and an
 An R package for streamlined data preprocessing, analysis, and visualization in association rule mining. 
 
 ### [🎶 Tune Twin](https://tunetwin.ca/)
-A music recommendation web app built with Flask and integrates Spotify, Last.fm, and Deezer APIs to suggest similar songs based on your favorite tracks.  
+A music recommendation web app built with Flask that integrates Spotify, Last.fm, and Deezer APIs to suggest similar songs based on your favorite tracks.  
 
 ### [🪐 Toth World](https://www.nikoletttoth.com/)
 My portfolio site!  
