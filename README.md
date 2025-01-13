@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Albert+Sans&weight=700&size=37&duration=7000&pause=1000&color=84B067&vCenter=true&width=700&height=90&lines=%F0%9F%8C%8E+Welcome+to+my+profile+%F0%9F%8C%B1+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Albert+Sans&weight=700&size=37&duration=7000&pause=1000&color=84B067&vCenter=true&width=700&height=90&lines=%F0%9F%8C%8E+Welcome+to+my+profile...+%F0%9F%8C%B1+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 As a third-year Computer Science student at the University of Guelph 💻 and an Environmental Sciences graduate 🌳, I draw on my diverse background to tackle complex challenges. My curiosity for technology and problem-solving drives me to integrate both fields and collaborate on innovative projects.
 
