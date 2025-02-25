@@ -6,7 +6,7 @@ As a third-year Computer Science student at the University of Guelph 💻 and an
 
 ## Current Projects 🔭
 
-### [🧬 Rules Tools](https://github.com/nikolett0203/RulesTools)
+### [🧬 Rules Tools](https://cran.r-project.org/web/packages/RulesTools/)
 An R package for streamlined data preprocessing, analysis, and visualization in association rule mining. 
 
 ### [🎶 Tune Twin](https://tunetwin.ca/)
