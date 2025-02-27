@@ -24,10 +24,3 @@ My portfolio site!
 </div> -->
 
 <!-- ---
-
-#### Technologies & Tools 🔧
-
-- Languages: C, Python, R, Java, JavaScript
-- Web Development: HTML, CSS, React
-- Databases: PostgreSQL, MySQL
-- Tools: Git, GitHub, VSCode, Slack, Trello -->
