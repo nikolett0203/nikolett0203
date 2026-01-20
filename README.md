@@ -11,15 +11,14 @@ class AboutMe:
       "B.Sc": "Environmental Sciences (2023)",
     }
 
-    self.currently = {
-      "building": "TuneTwin: full-stack music recommendation web app",
-      "reading": "Amusing Ourselves to Death — Neil Postman",
-      "listening": "Promises — Cleo Sol"
-    }
-
-  def get_current_project(self):
+  def currently_building(self):
     return "TuneTwin: a full-stack music recommendation web app"
 
+  def currently_reading(self):
+    return "Amusing Ourselves to Death: Neil Postman"
+
+  def currently_listening(self):
+    return "Promises: Cleo Sol"
   
 
 ```
