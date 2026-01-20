@@ -12,11 +12,7 @@ class AboutMe:
     }
 
     def get_current_projects(self):
-      return {
-        "TuneTwin": "full-stack music recommendation web app"
-      }
-
-
+      return "TuneTwin: a full-stack music recommendation web app"
 
 ```
 
