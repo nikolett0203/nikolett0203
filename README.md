@@ -1,19 +1,13 @@
-```javascript
+```python
 
-const nikolett = {
+class AboutMe:
 
-  education: {
-    bComp: "Computer Science (In Progress)",
-    bSc:   "Environmental Science (Grad 2023)"
-  },
-
-  hobbies: ["Snowboarding", "Astronomy", "Music"],
-  
-  currently: [
-    "Reading: 'The Midnight Library'", "Listening: 'Dreams' - Fleetwood Mac"
-  ]
-};
-
+  def __init__(self):
+    self.name = "nikolett"
+    self.education = {
+      "B.Sc": "Environmental Sciences (2023)",
+      "B.Comp": "Computer Science (in progress)"
+    }
 
 ```
 
