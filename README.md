@@ -3,13 +3,18 @@
 class AboutMe:
 
   def __init__(self):
-    
+
     self.name = "nikolett"
 
     self.education = {
-      "B.Comp": "Computer Science (in progress)",
+      "B.Comp": "Computer Science (2026)",
       "B.Sc": "Environmental Sciences (2023)",
     }
+
+    def get_current_projects(self):
+      return {
+        "TuneTwin": "full-stack music recommendation web app"
+      }
 
 
 
