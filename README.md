@@ -3,15 +3,19 @@
 class AboutMe:
 
   def __init__(self):
+    
     self.name = "nikolett"
+
     self.education = {
+      "B.Comp": "Computer Science (in progress)",
       "B.Sc": "Environmental Sciences (2023)",
-      "B.Comp": "Computer Science (in progress)"
     }
+
+
 
 ```
 
-### Languages
+#### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
@@ -22,7 +26,7 @@ class AboutMe:
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-000?logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
 
-### Technologies & Frameworks
+#### Technologies & Frameworks
 
 ![React](https://img.shields.io/badge/-React-000?logo=react)
 ![Django](https://img.shields.io/badge/-Django-000?logo=django&logoColor=2AA877)
@@ -30,6 +34,3 @@ class AboutMe:
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolett0203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
