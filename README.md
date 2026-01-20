@@ -1,11 +1,3 @@
-<h3 align="center">Niki</h3>
-<p align="center">
-  1 • 2 • 3
-</p>
-<p align="center">
-  ────────────  🌿  ────────────
-</p>
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
