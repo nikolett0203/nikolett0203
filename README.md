@@ -1,18 +1,18 @@
 ```javascript
 
-const about_me = {
+const nikolett = {
 
-  name = "nikolett",
+  education: {
+    bComp: "Computer Science (In Progress)",
+    bSc:   "Environmental Science (Grad 2023)"
+  },
 
-  education: [
-    {degree: "Bachelor of Computing", status: "in progress"},
-    {degree: "Bachelor of Computing", status: "grad 2023"}
+  hobbies: ["Snowboarding", "Astronomy", "Music"],
+  
+  currently: [
+    "Reading: 'The Midnight Library'", "Listening: 'Dreams' - Fleetwood Mac"
   ]
-
-  hobbies: ["snowboarding", "astronomy", "guitar + singing"]
-
-}
-
+};
 
 
 ```
