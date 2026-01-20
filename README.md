@@ -9,4 +9,4 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-000?logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolett0203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
