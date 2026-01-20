@@ -9,4 +9,14 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-000?logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
 
+### Technologies & Frameworks
+
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Django](https://img.shields.io/badge/-Django-000?logo=django&logoColor=2AA877)
+![Springboot](https://img.shields.io/badge/-Springboot-000?logo=springboot)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolett0203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
