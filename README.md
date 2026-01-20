@@ -1,9 +1,12 @@
-### About Me
-
 ```javascript
-const nikolett = {
-  name = "Nikolett Toth"
+
+const about_me = {
+
+  name: "nikolett" | "niki",
+
 }
+
+
 
 ```
 
