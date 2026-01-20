@@ -2,7 +2,14 @@
 
 const about_me = {
 
-  name: "nikolett" | "niki",
+  name = "nikolett",
+
+  education: [
+    {degree: "Bachelor of Computing", status: "in progress"},
+    {degree: "Bachelor of Computing", status: "grad 2023"}
+  ]
+
+  hobbies: ["snowboarding", "astronomy", "guitar + singing"]
 
 }
 
