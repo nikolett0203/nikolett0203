@@ -21,6 +21,7 @@ class AboutMe:
     return "Promises: Cleo Sol"
   
 if __name__ == "__main__":
+  print("explore what I'm building below 🚀")
 
 ```
 
