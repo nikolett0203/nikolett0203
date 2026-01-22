@@ -14,8 +14,8 @@ class AboutMe:
   def currently_building(self):
     return "TuneTwin: a full-stack music recommendation web app"
 
-  def currently_reading(self):
-    return "Amusing Ourselves to Death: Neil Postman"
+  def currently_learning(self):
+    return "Django and AI fundamentals"
 
   def currently_listening(self):
     return "Promises: Cleo Sol"
