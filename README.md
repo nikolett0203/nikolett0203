@@ -18,7 +18,7 @@ class AboutMe:
     return "Django and AI fundamentals"
 
   def currently_listening(self):
-    return "Garden Life: Luke Hemmings"
+    return "Big Man, Little Dignity - Paramore"
   
 if __name__ == "__main__":
   print("Explore what I'm building below 🚀")
